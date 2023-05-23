@@ -1,3 +1,3 @@
-def sum():
-    return 1+1
-print(sum())
+def sum(a, b):
+    return a+b
+print(sum(5, 6))
